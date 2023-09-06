@@ -1,4 +1,4 @@
-# Magento2 CouponLink
+# Magento2 Coupon Link
 
 The extension allows you to create URL links that will automatically add a coupon code for your customer to the shopping cart. Used in newsletter campaigns, marketing banners or posts, social media posting or in any promotional tools.
 
