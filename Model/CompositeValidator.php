@@ -3,10 +3,10 @@
  * Copyright © Eriocnemis, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Eriocnemis\CouponLink\Model;
+namespace Hgati\CouponLink\Model;
 
 use Magento\Framework\Exception\LocalizedException;
-use Eriocnemis\CouponLink\Model\Validator\ValidatorInterface;
+use Hgati\CouponLink\Model\Validator\ValidatorInterface;
 
 /**
  * Coupon composite validator

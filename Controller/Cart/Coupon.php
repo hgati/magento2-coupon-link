@@ -3,7 +3,7 @@
  * Copyright © Eriocnemis, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Eriocnemis\CouponLink\Controller\Cart;
+namespace Hgati\CouponLink\Controller\Cart;
 
 use Magento\Framework\App\Action\Context;
 use Magento\Framework\App\Config\ScopeConfigInterface;
@@ -19,7 +19,7 @@ use Magento\SalesRule\Model\CouponFactory;
 use Magento\Store\Model\StoreManagerInterface;
 use Magento\Quote\Api\CartRepositoryInterface;
 use Psr\Log\LoggerInterface;
-use Eriocnemis\CouponLink\Model\CompositeValidator;
+use Hgati\CouponLink\Model\CompositeValidator;
 
 /**
  * Apply coupon controller

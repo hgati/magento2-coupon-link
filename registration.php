@@ -7,6 +7,6 @@ use \Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Eriocnemis_CouponLink',
+    'Hgati_CouponLink',
     __DIR__
 );

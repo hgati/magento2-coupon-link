@@ -17,10 +17,10 @@
 
 ### Fixed Issues (if relevant)
 <!---
-    If relevant, please provide a list of fixed issues in the format eriocnemis/m2.CouponLink<issue_number>.
+    If relevant, please provide a list of fixed issues in the format hgati/m2.CouponLink<issue_number>.
     There could be 1 or more issues linked here and it will help us find some more information about the reasoning behind this change.
 -->
-1. eriocnemis/m2.CouponLink<issue_number>: Issue title
+1. hgati/m2.CouponLink<issue_number>: Issue title
 
 ### Manual testing scenarios (*)
 <!---

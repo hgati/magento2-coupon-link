@@ -3,7 +3,7 @@
  * Copyright © Eriocnemis, Inc. All rights reserved.
  * See COPYING.txt for license details.
  */
-namespace Eriocnemis\CouponLink\Model\Validator;
+namespace Hgati\CouponLink\Model\Validator;
 
 use Magento\Checkout\Helper\Cart as CartHelper;
 

@@ -9,7 +9,7 @@
     xsi:noNamespaceSchemaLocation="urn:magento:framework:App/etc/routes.xsd">
     <router id="standard">
         <route id="checkout">
-            <module name="Eriocnemis_CouponLink" before="Magento_Checkout"/>
+            <module name="Hgati_CouponLink" before="Magento_Checkout"/>
         </route>
     </router>
 </config>
