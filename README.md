@@ -1,6 +1,6 @@
 # Magento2 Coupon Link
-
-The extension allows you to create URL links that will automatically add a coupon code for your customer to the shopping cart. Used in newsletter campaigns, marketing banners or posts, social media posting or in any promotional tools.
+- Use <a href="https://mirasvit.com/magento-2-extended-shopping-cart-rules.html">Mirasvit extended shopping cart rule</a> instead of this extension. it is better solution.
+- The extension allows you to create URL links that will automatically add a coupon code for your customer to the shopping cart. Used in newsletter campaigns, marketing banners or posts, social media posting or in any promotional tools.
 Format of the link is...
 ```
 https://{your_domain}/checkout/cart/coupon/?code={code}
